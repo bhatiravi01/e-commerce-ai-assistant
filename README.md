@@ -1,4 +1,4 @@
-# Product Chatbot
+# Flipcart Product Chatbot
 
 An intelligent chatbot that provides personalized product recommendations and answers questions about Flipkart products based on real customer reviews using Retrieval-Augmented Generation (RAG) technology with built-in safety guardrails.
 
