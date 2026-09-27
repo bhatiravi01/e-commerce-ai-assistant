@@ -1,0 +1,14 @@
+
+streamlit
+langchain
+langchain-community
+langchain-astradb
+langchain-huggingface
+langchain-groq
+sentence-transformers
+transformers
+torch
+pandas
+python-dotenv
+-e .
+
